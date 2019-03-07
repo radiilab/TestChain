@@ -1,0 +1,5 @@
+// the configured options and settings for Reason ai to go live
+
+#define TestChain_VERSION_MAJOR @TestChain_VERSION_MAJOR@
+#define TestChain_VERSION_MINOR @TestChain_VERSION_MINOR@
+#define TestChain_VERSION_PATCH @TestChain_VERSION_PATCH@

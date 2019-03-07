@@ -89,7 +89,7 @@ dkms.conf
 # End of https://www.gitignore.io/api/c,c++,visualstudiocode
 
 ### donot add the build folder to the repository  ### 
-.build/*
+build
 
 
 
